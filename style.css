@@ -1,0 +1,159 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    color:black;  
+    background-image: url("image/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: top left;
+
+
+    
+}
+
+p{
+    font-size: 18px;
+    line-height: 27px;
+    text-align: justify;
+    color:dimgray;
+    padding-bottom: 5px; 
+}
+
+h1{
+    font-size: 50px;
+    line-height: 20px;
+}
+
+h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+.nav-bar{
+    height: auto;
+}
+.nav{
+    text-decoration: none;
+    float: right;
+    border-radius: 5px;
+    padding :4px 8px;
+    background-image: linear-gradient(160deg, rgba(114, 250, 186, 0.883), rgba(71, 197, 255, 0.726));    
+    margin-left: 3%;
+    color: black;
+    font-weight: 700;
+
+    
+}
+.nav-bar li{
+    display: inline;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 5%; 
+}
+
+.half-width img{
+    width: 90%; 
+    
+}
+
+.button{
+    border-radius: 5px;
+    padding :8px 16px;
+    background-image: linear-gradient(160deg, rgb(0, 255, 221), rgb(0, 143, 76));    
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+
+section{
+    height: 450px;
+    padding: 2% 5% 5% 5%;
+}
+
+#text-color-top{
+    color: hsl(51, 100%, 50%);
+}
+
+
+
+#text-color-bottom{
+    color: rgb(255, 69, 69);
+    
+}
+
+.bottom h2{
+   
+    border: 2px  double rgba(255, 77, 77, 0.602);
+    border-radius: 25px;
+    text-align: center;
+    
+}
+
+.bottom{
+    height: 600px;
+    background-color:rgba(217, 245, 253, 0.4);
+    
+}
+.bottom-half{
+    width: 30%;
+    float: left;
+    text-align: justify;
+    box-shadow: 1px 2px 6px gray;
+    border-radius: 10px;
+    height: 80%;
+    padding-top: 3%;
+    margin-left: 3%;
+     
+}
+
+.bottom-half img{
+    width: 100%;  
+    text-align: justify;
+
+}
+
+.box-text{
+    padding-left: 2%;
+    padding-right: 2%;
+    text-align: justify;
+}
+
+.inquiry{
+    margin-top: 7%;
+    display: inline-block;
+    margin-right: 15%; 
+    color: ivory;
+  
+}
+.button-inquiry{
+    margin-left: 15%;
+}
+.under{
+    background-repeat: no-repeat;
+    background-image: url("image/work-inquiry.png");
+    background-size: 100%;
+    float: middle;
+    margin: 10%;
+    text-align: center;   
+    height: 200px;
+}
+.last-part {
+    color: dimgray;
+    text-align: center;
+    
+    
+}
+.icon{
+    text-align: center;
+}
+.footer{
+    background-image: url("image/dream-bg.png");
+    background-position: bottom right;
+    background-repeat: no-repeat;
+
+}
+#copyright{
+    margin-top: 3%;
+    text-align: center;
+}
