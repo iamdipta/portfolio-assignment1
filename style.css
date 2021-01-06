@@ -3,10 +3,7 @@ body{
     color:black;  
     background-image: url("image/exp-bg.png");
     background-repeat: no-repeat;
-    background-position: top left;
-
-
-    
+    background-position: top left;   
 }
 
 p{
@@ -34,12 +31,10 @@ h2{
     float: right;
     border-radius: 5px;
     padding :4px 8px;
-    background-image: linear-gradient(160deg, rgba(114, 250, 186, 0.883), rgba(71, 197, 255, 0.726));    
+    background-image: linear-gradient(160deg, rgba(243, 144, 105, 0.883), rgba(255, 71, 172, 0.726));    
     margin-left: 3%;
     color: black;
     font-weight: 700;
-
-    
 }
 .nav-bar li{
     display: inline;
@@ -60,7 +55,7 @@ h2{
 .button{
     border-radius: 5px;
     padding :8px 16px;
-    background-image: linear-gradient(160deg, rgb(0, 255, 221), rgb(0, 143, 76));    
+    background-image: linear-gradient(160deg, rgb(88, 255, 213), rgb(39, 98, 105));    
     text-decoration: none;
     color: black;
     font-weight: 700;
@@ -84,7 +79,7 @@ section{
 
 .bottom h2{
    
-    border: 2px  double rgba(255, 77, 77, 0.602);
+    border: 2px  solid rgba(255, 77, 77, 0.602);
     border-radius: 25px;
     text-align: center;
     
